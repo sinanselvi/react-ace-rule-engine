@@ -1,4 +1,4 @@
-# React-Ace For RuleEngine
+# React-Ace For Rule Engine
 <b>This repo cloned from [securingsincity/react-ace](https://github.com/securingsincity/react-ace).</b> Thanks for component.
 <br>If you want to support owner, please use this link<br>
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/j)
